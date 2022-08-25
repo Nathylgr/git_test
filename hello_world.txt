@@ -1,2 +1,2 @@
 Helo World!
-Dizem se não disser a frase, tudo vai dar errado na vida do programador
+Dizem que se não disser a frase, tudo vai dar errado na vida do programador
